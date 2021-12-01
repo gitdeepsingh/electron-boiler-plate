@@ -4,6 +4,7 @@
   "description": "boilerplate setup to get started with electronJS",
   "main": "main.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/gitdeepsingh/electron-boilerplate/issues"
   },
-  "homepage": "https://github.com/gitdeepsingh/electron-boilerplate#readme"
+  "homepage": "https://github.com/gitdeepsingh/electron-boilerplate#readme",
+  "devDependencies": {
+    "electron": "^16.0.3"
+  }
 }
