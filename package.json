@@ -1,0 +1,23 @@
+{
+  "name": "electron-boiler-plate",
+  "version": "1.0.0",
+  "description": "boilerplate setup to get started with electronJS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitdeepsingh/electron-boilerplate.git"
+  },
+  "keywords": [
+    "elctron",
+    "boilerplates"
+  ],
+  "author": "deepsingh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitdeepsingh/electron-boilerplate/issues"
+  },
+  "homepage": "https://github.com/gitdeepsingh/electron-boilerplate#readme"
+}
